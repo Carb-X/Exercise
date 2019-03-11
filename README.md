@@ -1,3 +1,3 @@
-# Python_learning
+# Exercise
 
-Some questions or skills when learning Python
+Some questions or skills which are worthwhile to think about.
